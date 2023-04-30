@@ -56,4 +56,3 @@ function atualizaEstatistica(peca){
         elemento.textContent = parseInt(elemento.textContent) + parseInt(pecas[peca][elemento.dataset.estatistica])  
     })
 }
-
