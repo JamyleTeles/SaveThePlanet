@@ -10,7 +10,7 @@
 <br>
 
 <h2 id="about">Sobre o projeto</h2>
-A Terra está passando por um cenário apocalíptico. Você precisará lutar para conseguir sobreviver às guerras. Mas o mais legal, é que agora você tem robôs para lhe ajudar, você só precisa escolher as porcentagens de Força, Poder, Energia e Velocidade, para isso você precisa acrescentar ou diminuir os atributos: Braços, Blindagem, Núcleos, Pernas e Foguetes. (Cuidado, os atributos podem aumentar ou diminuir as porcentagens). 
+A Terra está passando por um cenário apocalíptico. Você precisará lutar para conseguir sobreviver às guerras contra os invasores do nosso planeta. Mas o mais legal, é que agora você tem robôs para lhe ajudar, você só precisa escolher as porcentagens de Força, Poder, Energia e Velocidade, para isso você precisa acrescentar ou diminuir os atributos: Braços, Blindagem, Núcleos, Pernas e Foguetes. (Cuidado, os atributos podem aumentar ou diminuir as porcentagens). 
 Neste projeto eu busquei fazer um projeto que me fizesse aprender um pouco mais sobre DOM (Document Object Model), com JavaScript, e assim dar um pouco mais de interatividade na minha aplicação
   
   Se você quer ver como ficou o projeto, clique aqui -> https://jamyleteles.github.io/SaveThePlanet/
